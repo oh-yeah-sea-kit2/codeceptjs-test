@@ -42,7 +42,7 @@ https://rey1229.hatenablog.com/entry/2017/09/05/134227
 ### テスト実行
 selenium server を立ち上げる（32bitドライバで立ち上げ）
 ```bash
-npx selenium-standalone start --drivers.ie.arch=ia32 --drivers.ie.
+npx selenium-standalone start --drivers.ie.arch=ia32
 ```
 
 IE用の設定ファイルを指定する。
